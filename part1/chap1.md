@@ -15,3 +15,12 @@
 * ごちそさま（でした）。=> Thank you for the meal (after eating)
 * はじめまして。=> How do you do ?
 * よろしくおねがいします。=> Nice to meet you.
+
+## 表現ノートから (From Expression Note 1)
+
+Following 3 are good-byes but with difference:
+
+* さようなら => long term
+* じゃあ、また => between friends, short term
+* しつれいします => proferssional (eg., taking leave out of office room)
+
