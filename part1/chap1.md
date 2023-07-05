@@ -11,6 +11,7 @@
 7. たけし：そですか。せんこうはなんですか。
 8. メアリー：にほんごです。いまにねんせいです。
 
+
 1. Mary: Excuse me. What time is it now ?
 2. Takeshi: It's half past twleve.
 3. Mary: Thank you.
