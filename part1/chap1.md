@@ -23,3 +23,35 @@
 6. Mary: Yes, I'm a student of Arizona University.
 7. Takeshi: I see. What's your major ?
 8. Mary: Japanese. I'm a sophomore now.
+
+## たんご
+
+* あの           =>     um...
+* いま           =>     now
+* えいご         =>     English (language)
+* ええ           =>     yes
+* がくせい       =>     student
+* 〜ご           =>     ...language. Eg., にほんご
+* こうこう       =>     high school
+* ごご           =>     P.M.
+* ごぜん         =>     A.M.
+* 〜さい         =>     ...years old
+* 〜さん         =>     Mr./Mrs.
+* 〜じ           =>     o'clock. Eg., いちじ
+* 〜じん         =>     ...people. Eg., にほんじん
+* せんこう       =>     major
+* せんせい       =>     teacher, professor
+* そうです       =>     That's right
+* そうですか     =>     I see; Is that so ?
+* だいがく       =>     college; university
+* でんわ         =>     telephone
+* ともだち       =>     friend
+* なまえ         =>     Name
+* なん・なに     =>     what
+* にほん         =>     Japan
+* 〜ねんせい     =>     ...year student. Eg., いちねんせい
+* はい           =>     yes
+* はん           =>     half. Eg., にじはん
+* ばんごう       =>     number
+* りょうがくせい =>     internation student
+* わたし         =>     I
