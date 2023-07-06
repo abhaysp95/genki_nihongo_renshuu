@@ -66,3 +66,16 @@
 * かんこく       => Korea
 * スェーデン     => Sweden
 * ちゅうごく     => China
+
+### Majors
+
+かがく => Science
+アジアけんきゅう => Asia studies
+けいざい => Economics
+こくさいかんけい => International studies
+コンピューター => Computer
+じんるいがく => Anthropology
+せいじ => Politics
+ベジネス => Business
+ぶんがく => Literature
+れきし > History
