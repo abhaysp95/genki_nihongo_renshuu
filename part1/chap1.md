@@ -69,13 +69,24 @@
 
 ### Majors
 
-かがく => Science
-アジアけんきゅう => Asia studies
-けいざい => Economics
-こくさいかんけい => International studies
-コンピューター => Computer
-じんるいがく => Anthropology
-せいじ => Politics
-ベジネス => Business
-ぶんがく => Literature
-れきし > History
+* かがく => Science
+* アジアけんきゅう => Asia studies
+* けいざい => Economics
+* こくさいかんけい => International studies
+* コンピューター => Computer
+* じんるいがく => Anthropology
+* せいじ => Politics
+* ベジネス => Business
+* ぶんがく => Literature
+* れきし > History
+
+### Occupations
+
+しごと => job; work occpation
+いしゃ => Doctor
+かいしゃいん => Office worker
+こうこうせい ==> High shcool stdent
+しゅふ => Housewife
+だいがくいんせい => Graduate student
+だいがくせい => College student
+べんごし => Lawyer
