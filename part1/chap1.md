@@ -55,3 +55,14 @@
 * ばんごう       =>     number
 * りょうがくせい =>     internation student
 * わたし         =>     I
+
+## Additional Vocabulary
+
+### Countries
+
+* アメリカ       => America
+* イギリス       => Britain
+* オーストラリア => Australia
+* かんこく       => Korea
+* スェーデン     => Sweden
+* ちゅうごく     => China
