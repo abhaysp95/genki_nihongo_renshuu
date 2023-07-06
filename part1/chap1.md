@@ -90,3 +90,12 @@
 だいがくいんせい => Graduate student
 だいがくせい => College student
 べんごし => Lawyer
+
+### Family
+
+* おかあさん => Mother
+* おとうさん => Father
+* おねえさん => Older sister
+* おにいさん => Older brother
+* いもとう => Younger sister
+* おとうと ==> Younger brother
