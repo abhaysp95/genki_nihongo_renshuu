@@ -82,14 +82,14 @@
 
 ### Occupations
 
-しごと => job; work occpation
-いしゃ => Doctor
-かいしゃいん => Office worker
-こうこうせい ==> High shcool stdent
-しゅふ => Housewife
-だいがくいんせい => Graduate student
-だいがくせい => College student
-べんごし => Lawyer
+* しごと => job; work occpation
+* いしゃ => Doctor
+* かいしゃいん => Office worker
+* こうこうせい ==> High shcool stdent
+* しゅふ => Housewife
+* だいがくいんせい => Graduate student
+* だいがくせい => College student
+* べんごし => Lawyer
 
 ### Family
 
@@ -166,8 +166,8 @@ A phrase of the form "noun1のnoun2" can also act more or less like one big noun
 
 Japanese say their family name first and given name last (middle name do not exist). When introducing they often say their family name only.
 
-| Family Name | Given name |
-| | Men | Women |
+
+| Family Name | Men | Women |
 | --- | --- | --- |
 | さとう | たくや | えりか |
 | すずき | しょおた | あい |
