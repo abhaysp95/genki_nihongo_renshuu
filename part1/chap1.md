@@ -99,3 +99,78 @@
 * おにいさん => Older brother
 * いもとう => Younger sister
 * おとうと ==> Younger brother
+
+## ぶんぽう
+
+### XはYです
+
+1. じゅうにじはんです。
+2. がくせいです。
+3. にほんごです。
+
+Sentences without subjects (like above) are very common in Japanese. If subject is not clear, just make it explicit. For eg., take 3rd sentence:
+
+せんこうはにほんごです。
+
+Basically, XはYです can mean like following:
+* A person or thing X as item Y
+* X is Y
+* As for X, it is Y etc.
+
+Some examples are:
+
+* わたしはスー・キムです。
+* やましたさんはせんせいです。
+* メアリーはアメリカじんです。
+
+は and の are particles. Particles attach themselves to phrases and indicate how the phrases relate to the rest of the sentence.
+
+There is no item in japanese that corresponds to "a", or anything to represent plural. So, without context it's difficult to know if がくせいです is for singular or plural (or gender also, unlike english).
+
+### 質問文 (Question Sentences)
+
+Just (mostly) add か at the end of sentence.
+
+**Affirmative:** りょうがくせいです。
+
+**Interrogation:** りょうがくせいですか。
+
+Interrogative sentences can also contain なん (what) and it's forms. It is not customary to use `?` in japanese sentences. なん is used before です or before counter like じ (o'clock). なに is used before particle or also in the combination なにじん (person of what nationality)
+
+Some examples are:
+
+* せんこうはなんですか。 せんこうはえいごです。
+* いまなんじですか。（いま）くじです。
+* メアリーさんはなんさいですか。じゅうきゅうさいです。
+* なんえんせいですか。にねんせいです。
+* でんわばんごうはなんですか。１８６の７３４３です。
+
+### noun1のnoun2
+
+の is a particle that connects two nouns. The phrase `さくらだいがくのがくせいです` means "a student at Sakura University". の is used to show possesiveness, like this first sentence in following example,
+
+たけしさんのでんわばんごう。
+だいがくのせんせい。
+にほんごのがくせい。
+にほんのだいがく。
+
+Japanese seems to be more consistent in arranging ideas here, the main idea always comes at the end, with any further description placed before it. Like, in first sentence above, "phone number" is the main idea, not "Takeshi san".
+
+A phrase of the form "noun1のnoun2" can also act more or less like one big noun too. You can put it wherever you can put a noun. Eg.,
+
+たけしさんのおかあさんはこうこうのせんせいです。
+
+## Culture Note
+
+### にほんじんのなまえ
+
+Japanese say their family name first and given name last (middle name do not exist). When introducing they often say their family name only.
+
+| Family Name | Given name |
+| | Men | Women |
+| --- | --- | --- |
+| さとう | たくや | えりか |
+| すずき | しょおた | あい |
+| たかはし | いちろう | なおみ |
+| たなか | ひろし | ゆうこ |
+| いとう | まさひろ | みさき |
