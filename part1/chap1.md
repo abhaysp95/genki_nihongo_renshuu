@@ -174,3 +174,39 @@ Japanese say their family name first and given name last (middle name do not exi
 | たかはし | いちろう | なおみ |
 | たなか | ひろし | ゆうこ |
 | いとう | まさひろ | みさき |
+
+
+## 表現ノート２
+
+**あの** indicates that you have some reservations about saying what you are going to say next.
+
+**はい/ええ** means "yes" in response to yes-no questions. ええ is more relaxed while はい is used in more proefessional sense too. うん is used in more informational situations.
+
+せんせい：スミスさん？
+がくせい：はい。
+
+**Pronounciation of は:** partical は is pronounced "wa" and not "ha". All other instances of "wa" are written わ. Eg.,
+
+わたしのげんわばんごうは３７−８６６７です。
+
+Few exceptions to this rule are: こんにちは and こんばんは .
+
+**Numbers:**
+
+* 0 ゼロ and れい are both commonly used.
+* いち but pronounced as いつ in いっぷん (one minute) and いっさい (one year old).
+* に all the time. When you are reading out each digit separately, as when you give you phone number, it may be pronouned with a long word as はい.
+* はん all the time. The part that follows it may change shape, as in さんぷん instead of はんふん.
+* よん is the most basic, but fourth-year student is よねんせい and four o'clock is よじ. In some combinations that we later learn, it is read as し (as in しがつ, April). The part that follows this number may change shape too, as in よんぷん.
+* ご all the time. When read out separately, it may be prononced with a long vowel, as ごう.
+* ろく, but pronouunced as ろっ in ろっぷん.
+* なな is the most basic, but seven o'clock is しちじ.
+* はち, but usually pronounced as はっ in はっぷん and はっさい.
+* きょう is the most basic, but nine o'clock is くじ.
+* じゅう, but pronounced as じゅっ or じっ in じゅっぷん/じっぷん and じゅっさい/じっさい.
+
+**Giving one's telephone number:** Particle の is usually place in between the local exchange code and the last four digits. Therefore, the number 012-345-6789 is ゼロいちに、さんよんごの、ろくななはちきゅう.
+
+**でんせい** usually reserved for describing somebody else's occupation. わたしはせんせいです makes sense, but may sound slightly arrogant, because せんせい actually means, _honorable master_. If you (or your family member) are a teacher, and if you want to be really modest, you can use きょうし instead.
+
+**はん** is placed after a name as generic title. It goes both with a given name and a family name. Children are referred to as ちゃん (and boys in particlar as くん), rather than さん. Professors and doctors are usually referred to with the title せんせい. はん and other title words are never used in reference to yourself.
