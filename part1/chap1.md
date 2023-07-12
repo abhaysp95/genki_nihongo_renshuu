@@ -210,3 +210,37 @@ Few exceptions to this rule are: こんにちは and こんばんは .
 **でんせい** usually reserved for describing somebody else's occupation. わたしはせんせいです makes sense, but may sound slightly arrogant, because せんせい actually means, _honorable master_. If you (or your family member) are a teacher, and if you want to be really modest, you can use きょうし instead.
 
 **はん** is placed after a name as generic title. It goes both with a given name and a family name. Children are referred to as ちゃん (and boys in particlar as くん), rather than さん. Professors and doctors are usually referred to with the title せんせい. はん and other title words are never used in reference to yourself.
+
+## れんしゅう
+
+### すうじ
+
+0. ゼロ/れい
+1. いち
+2. に
+3. さん
+4. し/よん/よ
+5. ご
+6. ろく
+7. なな/しち
+8. はち
+9. きょう
+10. じゅう
+11. じゅういち
+12. じゅうに
+13. じゅさん
+14. じゅうよん/じゅうし
+15. じゅうご
+16. じゅうろく
+17. じゅうなな
+18. じゅうはち
+19. じゅうきゅう
+20. にじゅう
+30. さんじゅう
+40. よんじゅう
+50. ごじゅう
+60. ろくじゅう
+70. ななじゅう
+80. はちじゅう
+90. きゅうじゅう
+100. ひゃく
