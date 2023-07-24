@@ -29,3 +29,47 @@
 メアリー：すみません。トイレはどこですか。
 ウエートレス：あそこです。
 メアリー：ありがとうございます。
+
+## たんご (Vocabulary)
+
+**Words that point**
+
+* これ   : this one
+* それ   : that one
+* あれ   : that one (over there)
+* どれ   : which one
+* この   : this
+* その   : that
+* あの   : that (over ther)
+* どの   : which
+* ここ   : here
+* そこ   : there
+* あそこ : over there
+* どこ   : where
+* だれ   : who
+
+**Food**
+
+* おいしい : tasty
+* さかな   : fish
+* とんかつ : pork cutlet
+* にく     : meat
+* メニュー : menu
+* やさい   : vegetable
+
+**Things**
+
+* えんぴつ   : pencil
+* かさ       : umbrella
+* かばん     : bag
+* くつ       : shoes
+* さいふ     : wallet
+* ジーンス   : jeans
+* じしょ     : dictionary
+* じてんしゃ : bicycle
+* しんぶん   : newspaper
+* とけい     : watch; clock
+* ノート     : notebook
+* ペン       : pen
+* ぼうし     : hat; cap
+* ほん       : book
