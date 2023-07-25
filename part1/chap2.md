@@ -115,3 +115,12 @@
 * じゃあ : then...; if that is the case,...
 * どうぞ : please; here it is
 * どうも : thank you
+
+## ぶんぽう (Grammer)
+
+### これ　それ　あれ　どれ
+
+"Kore" refers to a thing that is close to you. "Sore" is something that is close to the person you are talking to. "Are" refers to a thing neither close to you nor the listener.
+And "Dore" means "which", like: `どれですか。(which one is it ?)`
+
+"Dore" and "Nani" can't be followed by the particle "wa". Instead, you must use the particle "ga", like: `どれがあなたのぺんですか。(Which one is your pen?)`
