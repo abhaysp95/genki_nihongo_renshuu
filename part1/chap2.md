@@ -73,3 +73,45 @@
 * ペン       : pen
 * ぼうし     : hat; cap
 * ほん       : book
+
+**Places**
+
+* きっさてん     : cafe
+* ぎんこう       : bank
+* トイレ         : toilet
+* としょかん     : library
+* ゆうびんきょく : post office
+
+**Countries**
+
+* アメリカ   : America
+* イギリス   : England (Britain)
+* かんこく   : Korea
+* ちゅうごく : China
+
+**Majors**
+
+* けいざい       : economics
+* コンピューター : computer
+* ビジネス       : Business
+* れきし         : History
+
+**Family**
+
+* おかあさん : Mother
+* おとうさん : Father
+
+**Money Matters**
+
+いくら : ikura
+〜えん : ...yen
+たかい : expensive; high
+
+**Expressions**
+
+* いらっしゃいませ : welcome (to the store)
+* （〜を）おねがいします : ..., please
+* （〜を）ください : please give me...
+* じゃあ : then...; if that is the case,...
+* どうぞ : please; here it is
+* どうも : thank you
