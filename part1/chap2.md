@@ -124,3 +124,19 @@
 And "Dore" means "which", like: `どれですか。(which one is it ?)`
 
 "Dore" and "Nani" can't be followed by the particle "wa". Instead, you must use the particle "ga", like: `どれがあなたのぺんですか。(Which one is your pen?)`
+
+### この　その　あの　どの　+ noun
+
+Use these if you want to be more specific or you know the noun. _re_ series must always stand alone, while the _no_ series must always be followed by a noun. Eg.,
+```
+これはいくらですか。
+このとけいはいくらですか。
+
+そのとけいはさんぜんえんです。
+
+あのとけいはさんぜんごひゃくえんｄす。
+
+どのとけいがさんぜんごひゃくえんですか。
+```
+
+Since _dono_ is question word, just like _dore_, instead of particle _は_, _が_ will be used.
