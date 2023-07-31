@@ -195,3 +195,9 @@ Another particle, `yo` ("I tell you"), is added to a statement if the speaker wa
 とんかつはさかなじゃないですよ。
 スミスさんはいグリスじんですよ。
 ```
+
+## 表現ノート３ (Expression Notes)
+
+* （〜を）ください: Please give me X. Use it to request (concrete) items in general.
+* （〜を）おねがいします: same as above, but slightly upscaled. Heard often when ordering food at restaurant etc. This one can also be used with "abstract objects", such as repairs, explanations, and understanding.
+* （〜を）どうぞ: used when an offer is made with item X. Other scenarios include, a person waiting for you to come forth with item X; a telephone operator, asking for your name, would probably say `おなまえおどうぞ`.
