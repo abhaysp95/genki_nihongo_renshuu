@@ -201,3 +201,45 @@ Another particle, `yo` ("I tell you"), is added to a statement if the speaker wa
 * （〜を）ください: Please give me X. Use it to request (concrete) items in general.
 * （〜を）おねがいします: same as above, but slightly upscaled. Heard often when ordering food at restaurant etc. This one can also be used with "abstract objects", such as repairs, explanations, and understanding.
 * （〜を）どうぞ: used when an offer is made with item X. Other scenarios include, a person waiting for you to come forth with item X; a telephone operator, asking for your name, would probably say `おなまえおどうぞ`.
+
+## れんしゅう　(Practice)
+
+### すうじ (Numbers)
+
+* 100   : ひゃく
+* 200   : にひゃく
+* 300   : さんびゃく
+* 400   : よんひゃく
+* 500   : ごひゃく
+* 600   : ろっぴゃく
+* 700   : ななひゃく
+* 800   : はっぴゃく
+* 900   : きゅうひゃく
+* 1000  : せん
+* 2000  : にせん
+* 3000  : さんぜん
+* 4000  : よんせん
+* 5000  : ごせん
+* 6000  : ろくせん
+* 7000  : ななせん
+* 8000  : はっせん
+* 9000  : きゅうせん
+* 10000 : いちまん
+* 20000 : にまん
+* 30000 : さんまん
+* 40000 : よんまん
+* 50000 : ごまん
+* 60000 : ろくまん
+* 70000 : ななまん
+* 80000 : はちまん
+* 90000 : きゅうまん
+
+### ぎんこうはあそこです
+
+1. すみません、ぎんこうはどこですか。あそこです。
+2. トイレはどこですか。ここですよ。
+3. としょうかんはどこですか。あそこです。
+4. そのくつはいくらですか。ああ、よんせんごじゅうえんです。
+5. やましたせんせいはどこですか。あそこです。
+6. メニューはどこですか。ここですよ。
+7. じしょうはどこですか。そこですよ。
